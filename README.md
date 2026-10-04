@@ -1,6 +1,6 @@
-# Moofisto AFK Farmer
+# Moophisto AFK Farmer
 
-Moofisto AFK Farmer is a simple AutoHotkey v1 script for Diablo IV designed to help farm the **Moofisto boss** at the Bovine Sanctum for **cow-related items and other gear**.
+Moophisto AFK Farmer is a simple AutoHotkey v1 script for Diablo IV designed to help farm the **Moophisto boss** at the Bovine Sanctum for **cow-related items and other gear**.
 
 It automatically casts all six skill slots in a randomized order, can randomly double or triple cast skills, supports channeled abilities, and periodically moves the character within a small area.
 
@@ -26,7 +26,7 @@ It automatically casts all six skill slots in a randomized order, can randomly d
 ## Quick Installation
 
 1. Download and install [AutoHotkey v1.1](https://www.autohotkey.com/).
-2. Download the `Moofisto-AFK-Farmer.ahk` script.
+2. Download the `Moophisto-AFK-Farmer.ahk` script.
 3. In Diablo IV, teleport to **Bovine Sanctum**.
 4. Position yourself near the boss, but not close enough to be killed.
 5. Double-click the `.ahk` file to start the script.
@@ -69,7 +69,7 @@ Press `F10` to configure:
 Displays:
 
 ```text
-Moofisto AFK Farmer
+Moophisto AFK Farmer
 RUNNING
 
 Skill Cycles: 0

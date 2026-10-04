@@ -132,7 +132,7 @@ Gui, 1:Margin, 10, 8
 Gui, 1:Color, 111111
 
 Gui, 1:Font, s13 cFF69B4 Bold, Segoe UI
-Gui, 1:Add, Text, w300 Center, Moofisto AFK Farmer
+Gui, 1:Add, Text, w300 Center, Moophisto AFK Farmer
 
 Gui, 1:Font, s11 c00FF00 Bold, Segoe UI
 Gui, 1:Add, Text, vStatusText w300 Center, RUNNING
@@ -152,9 +152,9 @@ Gui, 1:Add, Text, w300, F8 - Pause / Resume
 Gui, 1:Add, Text, w300, F10 - Settings
 Gui, 1:Add, Text, w300, F12 - Exit
 
-Gui, 1:Show, x10 y10 NoActivate, Moofisto AFK Farmer
+Gui, 1:Show, x10 y10 NoActivate, Moophisto AFK Farmer
 
-WinSet, Transparent, 220, Moofisto AFK Farmer
+WinSet, Transparent, 220, Moophisto AFK Farmer
 
 
 ; ============================================================
@@ -238,7 +238,7 @@ Gui, 2:Margin, 12, 10
 Gui, 2:Color, 181818
 
 Gui, 2:Font, s12 cFF69B4 Bold, Segoe UI
-Gui, 2:Add, Text, x15 y12 w560 Center, Moofisto AFK Farmer - Settings
+Gui, 2:Add, Text, x15 y12 w560 Center, Moophisto AFK Farmer - Settings
 
 
 ; ============================================================
@@ -397,7 +397,7 @@ Gui, 2:Font, s9 cFFFFFF Norm, Segoe UI
 Gui, 2:Add, Button, x180 y680 w100 h30 gSaveSettings, Save
 Gui, 2:Add, Button, x295 y680 w100 h30 gCancelSettings, Cancel
 
-Gui, 2:Show, w580 h730, Moofisto AFK Farmer Settings
+Gui, 2:Show, w580 h730, Moophisto AFK Farmer Settings
 
 return
 
